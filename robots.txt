@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-xy1p7z.indowin.cfd/sitemap.xml
